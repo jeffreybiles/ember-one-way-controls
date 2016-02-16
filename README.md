@@ -54,6 +54,10 @@ In the following [demo](http://jsbin.com/juxedi/edit?output), move your cursor t
 
 This addon fixes the cursor jumping issue by using [`readDOMAttr`](http://emberjs.com/api/classes/Ember._MetamorphView.html#method_readDOMAttr), which provides a way to read an element's attribute and update the last value Ember knows about at the same time. This makes setting an attribute idempotent.
 
+## Other Resources
+
+* [EmberScreencasts video on using ember-one-way-controls](https://www.emberscreencasts.com/posts/118-ember-one-way-controls-addon)
+
 ## Compatibility
 
 This addon will work on Ember versions `1.13.x` and up.
